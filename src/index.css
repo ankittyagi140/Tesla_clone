@@ -13,5 +13,6 @@ a{
   cursor: pointer;
 }
 a:hover{
-  background-color: #cccfd4;
+opacity: .8;
 }
+

@@ -32,7 +32,7 @@ const Wrap = styled.div`
   display:flex;
   flex-direction:column;
   justify-content:space-between;
-  align-items:center;\
+  align-items:center;
   background-image:${props=>`url("/images/images/${props.bgImage}")`}
 
   

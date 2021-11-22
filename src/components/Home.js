@@ -1,10 +1,14 @@
 import React from 'react';
 import styled from "styled-components";
-import Section from './Section'
+import Section from './Section';
+import Chatbot from './Chatbot';
 
 function Home(){
+
     return(
         <Container>
+            <Chatbot/>
+
             <Section
                 title="Model S"
                 description="Order Online for Touchless Delivery"
