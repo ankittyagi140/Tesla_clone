@@ -38,8 +38,8 @@ const ChatForm = styled.div`
   background-color: #dddddd;
   height: 60vh;
   width: 320px;
-  bottom: 30px;
-  right: 20px;
+  bottom: 80px;
+  right: 105px;
   border-radius: 10px;
   z-index: 1000;
   display: flex;

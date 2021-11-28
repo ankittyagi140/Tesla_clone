@@ -7,7 +7,6 @@ function Home(){
 
     return(
         <Container>
-            <Chatbot/>
 
             <Section
                 title="Model S"

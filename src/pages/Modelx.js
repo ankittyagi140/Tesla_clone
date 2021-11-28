@@ -9,7 +9,7 @@ function Modelx() {
 <Header/> 
 
 <Modelinfo
-title="Modelx"
+title="Model X"
 subtitle="Book Online Now"
 milage="358mi"
 speed="3.1sec"

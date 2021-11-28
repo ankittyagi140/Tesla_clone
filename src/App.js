@@ -1,17 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
-import './App.css';
-import Home from "./components/Home"
-import Header from './components/Header';
+import React from "react";
+import "./App.css";
+import Home from "./components/Home";
+import Header from "./components/Header";
+import Chatbot from "./components/Chatbot";
 
-function App(){
-  return(
+function App() {
+  return (
     <div className="App">
-<Header/> 
-<Home/>
-
+      <Header />
+      <Home />
+      <Chatbot />
     </div>
-  )
+  );
 }
 export default App;

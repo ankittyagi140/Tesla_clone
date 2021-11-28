@@ -23,7 +23,7 @@ function Header() {
       </Menu>
       <RightMenu>
         <a href="#">Shop</a>
-        <a href="#">Account</a>
+        <Link to="/login">Account</Link>
         <CustomMenu onClick={() => setMenuState(true)}>
           <a href="#">Menu</a>
         </CustomMenu>
